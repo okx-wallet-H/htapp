@@ -1,0 +1,17 @@
+{
+  "routes": [
+    {
+      "path": "/",
+      "src": "src/pages/Index.tsx"
+    }
+  ],
+  "components": [
+    { "name": "ChatHeader", "src": "src/components/ChatHeader.tsx" },
+    { "name": "ChatInput", "src": "src/components/ChatInput.tsx" },
+    { "name": "ChatMessage", "src": "src/components/ChatMessage.tsx" },
+    { "name": "WelcomeScreen", "src": "src/components/WelcomeScreen.tsx" },
+    { "name": "SidebarDrawer", "src": "src/components/SidebarDrawer.tsx" },
+    { "name": "ProfileSheet", "src": "src/components/ProfileSheet.tsx" },
+    { "name": "QuickActionCards", "src": "src/components/QuickActionCards.tsx" }
+  ]
+}
